@@ -1,2 +1,2 @@
 # CV
-Computer vision research
+Computer vision research based on pyimageserch (www.pyimagesearch.com) tutorials.
